@@ -1,5 +1,5 @@
 class ApplicationController < ActionController::Base
-  #blahblah
-
+  # blahblah
+  # another comment
   protect_from_forgery
 end
